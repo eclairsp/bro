@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "bro": {
+      "commandName": "Project",
+      "commandLineArgs": "show -t"
+    }
+  }
+}
